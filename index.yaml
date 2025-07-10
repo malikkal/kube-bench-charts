@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  kube-bench:
+  - annotations:
+      artifacthub.io/links: |
+        - name: Helm chart source
+          url: https://github.com/deliveryhero/helm-charts/tree/master/stable/kube-bench
+    apiVersion: v2
+    appVersion: 0.11.1
+    created: "2025-07-10T20:51:46.783490395+08:00"
+    description: Helm chart to deploy run kube-bench as a cronjob on managed clusters.
+    digest: c8347be361f9908afbf19baf6dc93c5ad3422f85eca804273dcedf984004dde3
+    home: https://github.com/aquasecurity/kube-bench
+    icon: https://raw.githubusercontent.com/aquasecurity/kube-bench/0d1bd2bbd95608957be024c12d03a0510325e5e2/docs/images/kube-bench.png
+    maintainers:
+    - name: Mirantis Pre-Sales
+      url: https://github.com/malikkal
+    name: kube-bench
+    sources:
+    - https://github.com/aquasecurity/kube-bench
+    urls:
+    - https://malikkal.github.io/kube-bench-charts/kube-bench-0.1.17.tgz
+    version: 0.1.17
+generated: "2025-07-10T20:51:46.782993345+08:00"
