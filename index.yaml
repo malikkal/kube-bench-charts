@@ -7,10 +7,10 @@ entries:
           url: https://github.com/deliveryhero/helm-charts/tree/master/stable/kube-bench
     apiVersion: v2
     appVersion: k0s-0.11.1
-    created: "2025-07-11T14:03:27.966465887+08:00"
+    created: "2025-07-12T17:52:06.095331915+08:00"
     description: Helm chart to deploy kube-bench as a CronJob for k0s CIS benchmark
       (v0.11.1)
-    digest: 8667688af1fe7d394208c07e21679bd6cd3078a8621f09b85014ae5a7f84211c
+    digest: 3ef916661972b7d53fbaead938325e75788b3341c5962c692749d8b10f7ec8b7
     home: https://github.com/aquasecurity/kube-bench
     icon: https://raw.githubusercontent.com/aquasecurity/kube-bench/0d1bd2bbd95608957be024c12d03a0510325e5e2/docs/images/kube-bench.png
     maintainers:
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://malikkal.github.io/kube-bench-charts/kube-bench-1.0.0.tgz
     version: 1.0.0
-generated: "2025-07-11T14:03:27.965932728+08:00"
+generated: "2025-07-12T17:52:06.094910568+08:00"
